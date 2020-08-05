@@ -1,2 +1,2 @@
 # AppOfThrones
-Aplicación para android sobre los personajes de juego de tronos.
+Aplicación hecha en Kotlin sobre los personajes de juego de tronos.
