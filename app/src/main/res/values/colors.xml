@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffab00</color>
+
+    <color name="starkOverlay">#a0000000</color>
+    <color name="lannisterOVerlay">#aa8e0000</color>
+    <color name="tyrellOVerlay">#aa005662</color>
+    <color name="arrynOVerlay">#aa494949</color>
+    <color name="targaryenOVerlay">#aac4001d</color>
+    <color name="martellOVerlay">#aab53d00</color>
+    <color name="baratheonOVerlay">#aac17900</color>
+    <color name="greyjoyOVerlay">#aa00251a</color>
+    <color name="freyOVerlay">#aa002f6c</color>
+    <color name="turryOVerlay">#aa000051</color>
+
+    <color name="starkBase">#212121</color>
+    <color name="lannisterBase">#c62828</color>
+    <color name="tyrellBase">#00838f</color>
+    <color name="arrynBase">#757575</color>
+    <color name="targaryenBase">#ff1744</color>
+    <color name="martellBase">#ef6c00</color>
+    <color name="baratheonBase">#f9a825</color>
+    <color name="greyjoyBase">#008d40</color>
+    <color name="freyBase">#01579b</color>
+    <color name="tullyBase">#1a237e</color>
+
+</resources>

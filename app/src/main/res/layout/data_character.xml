@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="Personaje"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/bornLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:drawableStart="@drawable/ic_born"
+        android:drawableLeft="@drawable/ic_born"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        tools:text="283AC" />
+
+    <TextView
+        android:id="@+id/actorLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:drawableStart="@drawable/ic_name"
+        android:drawableLeft="@drawable/ic_name"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        tools:text="Kit Harington" />
+
+    <TextView
+        android:id="@+id/quoteLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:drawableStart="@drawable/ic_quote"
+        android:drawableLeft="@drawable/ic_quote"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:textStyle="italic"
+        tools:text="I know nothing" />
+
+    <TextView
+        android:id="@+id/parentName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:drawableStart="@drawable/ic_father"
+        android:drawableLeft="@drawable/ic_father"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        tools:text="Ned Stark" />
+
+    <TextView
+        android:id="@+id/spouseLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:drawableStart="@drawable/ic_spouse"
+        android:drawableLeft="@drawable/ic_spouse"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        tools:text="Sin esposa" />
+
+</LinearLayout>
